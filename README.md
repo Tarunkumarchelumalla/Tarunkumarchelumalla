@@ -86,18 +86,18 @@ portfolio:   https://authh-6b332.web.app/
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  🚀  ACTIVE PROJECT: Content Automation Pipeline                 │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│  INPUT              PROCESS               OUTPUT                  │
-│                                                                   │
-│  Script / Prompt ──► Ollama LLM       ──► Refined Script         │
-│  Visual Brief    ──► ComfyUI + Flux   ──► AI-Generated Visuals   │
-│  Avatar Config   ──► HeyGen           ──► Talking Head Video     │
-│  Scene Layout    ──► Hyperframes      ──► Dynamic Video Frames   │
-│  All Assets      ──► Auto Pipeline    ──► Published Content 🎬   │
-│                                                                   │
-│  STATUS: 🟡 IN DEVELOPMENT                                       │
+│  🚀  ACTIVE PROJECT: Content Automation Pipeline                 
+├────────────────────────────────────────────────────────────────── 
+│                                                                  
+│  INPUT              PROCESS               OUTPUT                  
+│                                                                  
+│  Script / Prompt ──► Ollama LLM       ──► Refined Script         
+│  Visual Brief    ──► ComfyUI + Flux   ──► AI-Generated Visuals   
+│  Avatar Config   ──► HeyGen           ──► Talking Head Video     
+│  Scene Layout    ──► Hyperframes      ──► Dynamic Video Frames   
+│  All Assets      ──► Auto Pipeline    ──► Published Content 🎬   
+│                                                                  
+│  STATUS: 🟡 IN DEVELOPMENT                                       
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -197,15 +197,15 @@ portfolio:   https://authh-6b332.web.app/
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "We're more ghosts than people."                          ║
-║                                                              ║
-║   "I'm gonna do what I can with what I got,                 ║
-║    and hope that it's enough."                              ║
-║                                                              ║
-║                              — Arthur Morgan, RDR II        ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   "We're more ghosts than people."                         ║
+║                                                            ║
+║   "I'm gonna do what I can with what I got,                ║
+║    and hope that it's enough."                             ║
+║                                                            ║
+║                          — Arthur Morgan, RDR II           ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ⚡ *Keep riding. Keep building.* 🤠
