@@ -51,7 +51,7 @@ ask_me_about:
   - ComfyUI / Diffusion Model Pipelines
 
 contact:     tarunchelumalla@gmail.com
-portfolio:   https://authh-6b332.web.app/
+portfolio:   https://tarun-chelumalla.netlify.app/
 ```
 
 ---
